@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_width">320dp</dimen>
+    <dimen name="profile_image_width">150dp</dimen>
+    <dimen name="profile_image_height">150dp</dimen>
+    <dimen name="profile_image_margin_top">36dp</dimen>
+    <dimen name="margin_top_32dp">32dp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="margin_top_16dp">16dp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+</resources>

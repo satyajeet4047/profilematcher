@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProfileMatcher</string>
+    <string name="request_error_dialog_title">Error</string>
+    <string name="request_error_dialog_message">Something went wrong while processing request</string>
+    <string name="request_error_dialog_ok_btn">OK</string>
+    <string name="profile_accepted_text">ACCEPTED</string>
+    <string name="profile_rejected_text">REJECTED</string>
+    <string name="tbn_accept_text">Accept</string>
+    <string name="btn_decline_text">Decline</string>
+</resources>
