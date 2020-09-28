@@ -20,7 +20,7 @@ A simple app to show profiles in recyclerview with option to accept or decline.
 * LiveData -Architecture Component
 * ViewModel - Architecture Component
 * RxJava & RxAndroid - For asynchronous tasks
-* ButterKnife - Used for Data Binding
+* DataBindingUtil - Used for Data Binding
 * Picasso - To Load images from URL
 * Room - For database operations
 * Retrofit & OKHTTP - Handles network calls
